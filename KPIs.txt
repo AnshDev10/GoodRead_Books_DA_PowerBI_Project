@@ -1,0 +1,9 @@
+Author with Maximum No of Books Written
+
+Author with Maximum Pages Written
+
+Author with Maximum rating_count & review_count
+
+Which month has the maximum number of books published
+
+Which Year has the maximum number of books published
