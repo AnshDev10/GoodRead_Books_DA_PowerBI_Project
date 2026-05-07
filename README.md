@@ -134,7 +134,7 @@ Total Genres = DISTINCTCOUNT('GoodRead_Books'[genre])
 
 # 🖼️ Dashboard Preview
 
-<img width="594" height="335" alt="Image" src="https://github.com/user-attachments/assets/214ac104-4356-4a8b-af23-9f62e0f0a14d" />
+<img width="594" height="335" alt="Image" src="https://github.com/user-attachments/assets/1153fc9a-e925-4a86-935b-5bb26e09489e" />
 
 
 # 🚀 How to Use
